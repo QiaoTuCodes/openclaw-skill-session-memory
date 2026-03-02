@@ -1,4 +1,10 @@
-# OpenClaw 会话记忆技能
+<p align="center">
+    <img src="https://raw.githubusercontent.com/QiaoTuCodes/openclaw-skill-session-memory/main/assets/openclaw-skill-logo.png" alt="OpenClaw Skill" width="500">
+</p>
+
+<p align="center">
+  <strong>📝 OpenClaw 会话记忆技能</strong>
+</p>
 
 <p align="center">
   <a href="https://github.com/QiaoTuCodes/openclaw-skill-session-memory/releases"><img src="https://img.shields.io/github/v/release/QiaoTuCodes/openclaw-skill-session-memory?include_prereleases&style=for-the-badge" alt="GitHub release"></a>
